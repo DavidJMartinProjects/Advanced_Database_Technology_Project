@@ -3,7 +3,7 @@
 A report detailing the SQL/PLSQL database project I designed and built during my MSc degree (all coding is included in the report).
 
 1.	Project Introduction 
-1.1.	Project Proposal
+2.	1.1.	Project Proposal
 
 In this project, I propose to design a database system for a computer manufacturing firm who allows its customers to configure and build with various different components, custom computers based upon their business/personal needs.  
 For example, a customer who is a gaming enthusiast will be able to build and configure a custom pc based upon a range of high performance components such as Video Cards, CPU’s & Motherboards which would suitable to his/her gaming needs.
